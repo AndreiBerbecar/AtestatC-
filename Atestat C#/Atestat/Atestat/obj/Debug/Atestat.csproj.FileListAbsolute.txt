@@ -1,0 +1,11 @@
+E:\Andrei\Atestat C#\Atestat\Atestat\bin\Debug\Atestat.exe.config
+E:\Andrei\Atestat C#\Atestat\Atestat\bin\Debug\Atestat.exe
+E:\Andrei\Atestat C#\Atestat\Atestat\bin\Debug\Atestat.pdb
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.csproj.AssemblyReference.cache
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.csproj.SuggestedBindingRedirects.cache
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.exe
+E:\Andrei\Atestat C#\Atestat\Atestat\obj\Debug\Atestat.pdb
